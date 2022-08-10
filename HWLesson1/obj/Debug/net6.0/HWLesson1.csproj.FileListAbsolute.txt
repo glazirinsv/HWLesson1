@@ -1,0 +1,15 @@
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.csproj.AssemblyReference.cache
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.AssemblyInfoInputs.cache
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.AssemblyInfo.cs
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.csproj.CoreCompileInputs.cache
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\bin\Debug\net6.0\HWLesson1.exe
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\bin\Debug\net6.0\HWLesson1.deps.json
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\bin\Debug\net6.0\HWLesson1.runtimeconfig.json
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\bin\Debug\net6.0\HWLesson1.dll
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\bin\Debug\net6.0\HWLesson1.pdb
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.dll
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\refint\HWLesson1.dll
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.pdb
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\HWLesson1.genruntimeconfig.cache
+C:\Users\glazi\Desktop\С# lesson 1\HomeWorks\HWLesson1\obj\Debug\net6.0\ref\HWLesson1.dll
